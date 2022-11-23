@@ -1,4 +1,4 @@
-const bt1 = document.getElementById("ne1");
+const bt1 = document.getElementById("btn");
 const img = document.getElementById("im");
 //client id Access Key (https://unsplash.com/)
 const clientId = "_h56FGJDntiJTUNJsEEdQ8x4tOAoKBjVj5uvZOAqGek";
