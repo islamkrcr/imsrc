@@ -19,7 +19,7 @@ bt1.addEventListener("click",()=>{
             var n = data.results.length;
             for(let i = 0; i < n; i++){
             var url = data.results[i].urls.small;
-            img.innerHTML += "<div class='fo1'><img src='"+ url +"'></div>"
+            img.innerHTML += "<div class='fo1'><img src='"+ url + "&h=400&h=400" +"'></div>"
             console.log(img.innerHTML.value)
         }
         }

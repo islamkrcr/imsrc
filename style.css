@@ -3,6 +3,7 @@
     height: 30px;
     margin-left: 75%;
     margin-top: 1.5%;
+    padding: 0px
 }
 .div-btn{
     transition-property: box-shadow;
@@ -16,7 +17,7 @@
     height: 50px;
     background-color: gray;
     margin-top: 0.5%;
-    margin-left: 2%;
+    margin-left: 0.1%;
     -webkit-border-radius: 25px;
     -moz-border-radius: 25px;
     -ms-border-radius: 25px;
@@ -27,7 +28,7 @@
     padding: 15px;
 }
 .img{
-    margin-left: 10%;
+    margin-left: 0%;
 }
 body{
     background-color: blueviolet;
@@ -46,6 +47,7 @@ body{
     border-bottom: 4px solid black;
 }
 .sc-inbt{
+    background-color: #353535;
     height:  75px;
     display: flex;
     flex-direction: row;
